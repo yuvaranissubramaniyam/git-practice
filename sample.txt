@@ -3,4 +3,9 @@ Keeps track on code change
 
 Used to collaborate code
 
+<<<<<<< HEAD
 pull request
+=======
+This is updating from github
+Example of full request
+>>>>>>> 128af50b7f4bfd3a322564a8b936b31b4611f997
