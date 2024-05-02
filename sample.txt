@@ -2,3 +2,5 @@ Git is a Version control
 Keeps track on code change
 
 Used to collaborate code
+
+pull request
